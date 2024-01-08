@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>697274780628-543v4di99f57orrs7mv5gfs8c48aha7k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.697274780628-543v4di99f57orrs7mv5gfs8c48aha7k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCToJ_cwhKOhasR1Fq3SZyKtu-mQ30iddI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>697274780628</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.db</string>
+	<key>PROJECT_ID</key>
+	<string>crawling-6b85c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crawling-6b85c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:697274780628:ios:9027d8cf1ca8145d502441</string>
+	<key>DATABASE_URL</key>
+	<string>https://crawling-6b85c-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
