@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB7Syx1nzsUHcU06twM1B3Htvdw_dF8OHA',
-    appId: '1:697274780628:android:12712d2d08ca0170502441',
-    messagingSenderId: '697274780628',
-    projectId: 'crawling-6b85c',
-    databaseURL: 'https://crawling-6b85c-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'crawling-6b85c.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 }
